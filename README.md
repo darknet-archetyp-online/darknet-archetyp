@@ -55,3 +55,5 @@ If you are ready to explore Archetyp: Market, here are the links to get started:
 ### Disclaimer
 
 This guide is intended solely for educational purposes. The information provided is meant to raise awareness and understanding of the darknet. We neither endorse nor promote any illegal activities. Always comply with local laws and regulations when exploring the internet. Stay safe and informed!
+
+Update:  11 June 2025
