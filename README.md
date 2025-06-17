@@ -60,4 +60,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  16 June I've tested it, and the link is now clickable.
+
+
+Update:  17 June
