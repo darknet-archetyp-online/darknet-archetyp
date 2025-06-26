@@ -68,4 +68,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  24 June Links fixed
+
+
+Update:  26.06.2025 url is now operational and accessible
