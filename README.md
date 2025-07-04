@@ -70,4 +70,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  26.06.2025 url is now operational and accessible
+
+
+Update:  04 July 2025 The link is operational once more.
