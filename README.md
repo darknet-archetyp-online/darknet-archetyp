@@ -78,4 +78,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: link is back up
+
+
+Update: Updated vulnerability reporting URLs
