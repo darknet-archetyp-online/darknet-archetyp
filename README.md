@@ -80,4 +80,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Updated vulnerability reporting URLs
+
+
+Update: Route fixes
